@@ -1,0 +1,10 @@
+OPERATION OF CALENDAR
+This function computes the day, week number,  and the number of days from the current date for any given date, Month and year.
+For operation of calendar function 
+Select main menu 9, accessories, sub menu 2, calendar,
+system will  voice prompts to;
+Enter the day, followed by FG 
+Enter the Month, followed by FG 
+Enter the year, followed by FG 
+On entering of data in the above format, he application computes the number of days from the current date and gives an audio output of the day and the number of days..
+End of calendar operation manual. Thank you.

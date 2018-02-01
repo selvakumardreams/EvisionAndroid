@@ -1,0 +1,23 @@
+CALCULATOR
+OPERATION OF CALCULATOR
+The arithmetic operators are denoted by the following key combination strokes.  
+Hash 1 for Addition, 
+Hash 2 for Subtraction, 
+Hash 3 for Multiplication, 
+Hash 4 for Division, 
+Hash 5 for decimal point, 
+FG for Equal to, 
+*H for deletion of wrong entry,
+HG for close calculator, 
+(Please make the above two key strokes  in quick succession.)
+Operation of calculator has two options, a) to operate without voice prompt, b) to operate with voice prompt
+
+For the operation of calculator 
+On selection of the menu, the system will prompt to enter data in the following format.
+Operand 1, followed by arithmetic function, then operand 2, and  then FG.
+Select main menu 9 accessories, sub menu 1 calculator.
+Up on selection of calculator, proceed data entry as per the format for without voice prompt.
+Or press # and proceed with data entry for voice prompt.
+
+
+End of calculator operation manual. Thank you.

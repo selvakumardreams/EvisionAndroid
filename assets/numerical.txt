@@ -1,0 +1,16 @@
+Numeral writing
+Innovative numeral writing scheme is simple and faster writing method in which alphabets are denoted by numbers. 
+The first ten alphabets a to j are denoted by numbers 1 to 9 and 0. That is  1 for a, 2 for b, 3 for c, 4 for d, 5 for e, 6 for f, seven for g, 8 for h, 9 for I, 0 for j. 
+The second set ten alphabets k to t is  repetition of 1 to 9 and 0 prefixed with  key F. That is, F1 for k, F2 for l, F3 for m, F4 for n, F5 for o, F6 for p, F7 for q. F8 for r, F9 for s, F0 for t. 
+The third set of six letters u, v, w, x, y, z  and four punctuation  comma,  full stop, semicolon, and  question mark are repetition of numbers 1 to 6 pre fixed with key G, and  the number7 to 9 and 0  pre fixed with G. That is G1 for u, G2 for v, G3 for w, G4 for x, G5 for y, G6 for z. And G7 for comma ,  G8 for full stop, G9 for semicolon, G0 for question mark.   
+ Numerals 1 to 9 and 0 are represented by the numbers 1 to 9 and 0 prefixed with key H.
+That is H1 for 1, H2 for 2, H3 for 3, H4 for 4, H 5 for 5, H6 for 6, H7 for 7, H8 for 8, H9 for 9, H0 for 0.
+ The first set of  punctuation marks,  colon,   @,  &,  %, apostrophe,  double quote,  less than,  grater than,  open bracket,  and close bracket are  represented by number 1 to 9 and 0 prefixed with key #. That is #1 for colon, #2 for @, #3 for &, #4 for %, #5 for apostrophe, #6 for double quote mark, #7 for less than, #8 for grater than, #9 for open bracket, #0 for close bracket. 
+The arithmetic operator is marked as follows. *1 for addition, *2 for subtraction , *3 for multiplication, *4 for division, *5 for equal to.
+The other functions are represented as follows, *6 for back space, *7 for delete, *8 for space, *9 for enter, *0 for upper case.  
+To summarise,
+The alphabets A to J are represented by 1 to 9 and 0.
+The alphabets K to T are represented by 1 to 9 and 0 pre fixed with key F.
+The alphabets U to Z are represented by 1 to 6 pre fixed with key H.
+Numerals 1 to 9 and 0 are represented by 1 to 9 and 0 pre fixed with key H.
+End of numeral writing tutor. Thank you

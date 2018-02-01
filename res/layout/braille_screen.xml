@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:stretchColumns="*" >
+
+        <TableRow
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/num1Button"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/digit1"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/num4Button"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/digit4"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/numAButton"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/A"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/num2Button"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/digit2"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/num5Button"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/digit5"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/numBButton"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/B"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/num3Button"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/digit3"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/num6Button"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/digit6"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/numCButton"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/C"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/numE1Button"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/E"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/numE2Button"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/E"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/numDButton"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/D"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/numFButton"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/F"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/numGButton"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/G"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/numHButton"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/H"
+                android:background="@drawable/btn_normal"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout><!-- <?xml version="1.0" encoding="utf-8"?> -->
+<!-- <TableLayout xmlns:android="http://schemas.android.com/apk/res/android" -->
+<!-- android:id="@+id/layoutwidget" -->
+<!-- android:layout_width="fill_parent" -->
+<!-- android:layout_height="fill_parent" -->
+<!-- android:layout_gravity="center_horizontal" > -->
+
+<!-- <TableRow -->
+<!-- android:id="@+id/tableRow1" -->
+<!-- android:layout_width="match_parent" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:gravity="center" > -->
+
+<!-- <Button -->
+<!-- android:id="@+id/num1Button" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:text="@string/digit1" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" > -->
+<!-- </Button> -->
+
+<!-- <Button -->
+<!-- android:id="@+id/num2Button" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:text="@string/digit2" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" /> -->
+
+<!-- <Button -->
+<!-- android:id="@+id/num3Button" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:text="@string/digit3" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" /> -->
+<!-- </TableRow> -->
+
+<!-- <TableRow -->
+<!-- android:id="@+id/tableRow2" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:gravity="center"> -->
+
+<!-- <Button -->
+<!-- android:id="@+id/num4Button" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:gravity="center" -->
+<!-- android:text="@string/digit4" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" /> -->
+
+<!-- <Button -->
+<!-- android:id="@+id/num5Button" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:gravity="center" -->
+<!-- android:text="@string/digit5" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" /> -->
+
+<!-- <Button -->
+<!-- android:id="@+id/num6Button" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:gravity="center" -->
+<!-- android:text="@string/digit6" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" /> -->
+<!-- </TableRow> -->
+
+<!-- <TableRow -->
+<!-- android:id="@+id/tableRow3" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:gravity="center"> -->
+
+<!-- <Button -->
+<!-- android:id="@+id/num7Button" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:gravity="center" -->
+<!-- android:text="@string/digit7" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" /> -->
+
+<!-- <Button -->
+<!-- android:id="@+id/num8Button" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:gravity="center" -->
+<!-- android:text="@string/digit8" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" /> -->
+
+<!-- <Button -->
+<!-- android:id="@+id/num9Button" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:gravity="center" -->
+<!-- android:text="@string/digit9" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" /> -->
+<!-- </TableRow> -->
+
+<!-- <TableRow -->
+<!-- android:id="@+id/tableRow4" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:gravity="center" > -->
+
+<!-- <Button -->
+<!-- android:id="@+id/numHashButton" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:text="@string/symb_hash" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" /> -->
+
+<!-- <Button -->
+<!-- android:id="@+id/num0Button" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:text="@string/digit0" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" /> -->
+
+<!-- <Button -->
+<!-- android:id="@+id/numStarButton" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:text="@string/symb_star" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" /> -->
+<!-- </TableRow> -->
+
+<!-- <TableRow -->
+<!-- android:id="@+id/tableRow5" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:gravity="center" > -->
+
+<!-- <Button -->
+<!-- android:id="@+id/numFButton" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:text="@string/F" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" /> -->
+
+<!-- <Button -->
+<!-- android:id="@+id/numGButton" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:text="@string/G" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" /> -->
+
+<!-- <Button -->
+<!-- android:id="@+id/numHButton" -->
+<!-- android:layout_width="wrap_content" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:background="@drawable/btn1" -->
+<!-- android:text="@string/H" -->
+<!-- android:textSize="50sp" -->
+<!-- android:textStyle="bold" /> -->
+<!-- </TableRow> -->
+
+<!-- </TableLayout> -->

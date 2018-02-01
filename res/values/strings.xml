@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">THELIEUS</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit0">0</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit1">1</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit2">2</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit3">3</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit4">4</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit5">5</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit6">6</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit7">7</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit8">8</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit9">9</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="symb_hash">#</string>
+    <string name="symb_star">*</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+    <string name="E">E</string>
+    <string name="F">F</string>
+    <string name="G">G</string>
+    <string name="H">H</string>
+    <string name="e1">E 1</string>
+    <string name="e2">E 2</string>
+    <string name="file">File</string>
+    <string name="select">select</string>
+    <string name="isselect"> is selected</string>
+    <string name="star">Star</string>
+    <string name="hash">Hash</string>
+    <string name="enter">Enter</string>
+    <string name="enter_is">entered is</string>
+    <string name="please">Please select</string>
+    <string name="MOD">MOD:</string>
+    <string name="active_mode">Active Mode</string>
+    <string name="Accessories">Accessories</string>
+    <string name="Battery_Information">Battery Information</string>
+    <string name="Braille_Alphabetical_Mode">Braille Alphabetical Mode</string>
+    <string name="Calculator">Calculator</string>
+    <string name="Calender">Calender</string>
+    <string name="Dialed_Calls">Dialed Calls</string>
+    <string name="Ebook">EBook</string>
+    <string name="EBook_List">EBook List</string>
+    <string name="Ebook_Read">EBook_Read</string>
+    <string name="GPS">GPS</string>
+    <string name="Missed_Calls">Missed_Calls</string>
+    <string name="Voice_Recorder">Voice Recorder</string>
+    <string name="Note_Pad">Note Pad</string>
+    <string name="Optical_Reader">Optical Reader</string>
+    <string name="Quick_Dial">Quick Dial</string>
+    <string name="Received_Calls">Received Calls</string>
+    <string name="Settings">Settings</string>
+    <string name="Signal_Strength">Signal Strength</string>
+    <string name="SMS">S M S </string>
+    <string name="Standbymode">Stand By Mode</string>
+    <string name="GOOGLE_MAPS_API_KEY">0VV4vaNBXBx4Vu19jim2eoGAn5BnbatPvHRer5Q</string>
+    <string name="AppTag">AppTag</string>
+    <string name="Tag">FindMyFriend</string>
+    <string name="pathfinder">PathFinder</string>
+    <string name="Today_Information">Today\'s Information</string>
+    <string name="space"></string>
+    <string name="alert_dialog_settings">Settings</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="direction_warning">Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths.</string>
+    <string name="stop_navigation">Stop navigation</string>
+    <string name="findmyfriend_server_error_message">Unable to connect to find my friend Server, please contact your administrator</string>
+    <string name="wrong_choice">wrong choice, press 0 to repeat menu</string>
+    <string name="stop_reading">Stopped Reeding</string>
+    <string name="scroll_up">B A for scroll up</string>
+    <string name="scroll_down">B C for scroll Down</string>
+    <string name="select_fg">FG for select file</string>
+    <string name="exit_8">8 for exit</string>
+    <string name="repeat_0">0 for repeat menu</string>
+    <string name="repeat_nine"> 9 for repeat menu</string>
+    <string name="numeric_mode">you are in numeric mode</string>
+    <string name="press_star">press star after entering the numbers</string>
+    <string name="nochar_delete">no characters present to be deleted</string>
+    <string name="nofile_sdcard">No Files in S D card Please add files to S D card and try again</string>
+    <string name="fgh_active"> f g h go to active mode</string>
+    <string name="previous_hg">H G for to go to previous menu</string>
+    <string name="delete_d">press d to delete a character entered</string>
+    <string name="enter_no">Enter the number</string>
+    <string name="enter_name">please enter the name</string>
+    <string name="create_dir">Creating directory</string>
+    <string name="page_loding">page loading</string>
+    <string name="home_page">u r already in the home page</string>
+    <string name="sms_send">S M S sent to</string>
+    <string name="generic_failure">Generic failure</string>
+    <string name="FindMyFriend_Tag">FindMyFriend</string>
+    <string name="FindMyFriend_AppTag">AppTag</string>
+    <string name="FindMyFriend_signup_type_same_password_in_password_fields">Type same password in password fields</string>
+    <string name="OK">OK</string>
+    <string name="FindMyFriend_signup_fill_all_fields">Please fill all fields</string>
+    <string name="FindMyFriend_signup_failed">Sign up failed because of unknown reason</string>
+    <string name="FindMyFriend_signup_email_crashed">Your email have been already used</string>
+    <string name="FindMyFriend_email_and_password_length_short">Email and password length must be at least 5</string>
+    <string name="FindMyFriend_email_not_valid">Email is not valid!</string>
+    <string name="FindMyFriend_signup_successfull">Your data is recorded successfully, check your email to activate your account</string>
+    <string name="FindMyFriend_register_fail">Registration failed</string>
+    <string name="FindMyFriend_register_successfull">Registered successfully</string>
+    <string name="FindMyFriend_HTTP_RESPONSE_ERROR_UNKNOWN">unknown error</string>
+    <string name="FindMyFriend_HTTP_RESPONSE_ERROR_UNAUTHORIZED_ACCESS">user name or password incorrect</string>
+    <string name="FindMyFriend_HTTP_RESPONSE_ERROR_NETWORK_ISSUE">network issue</string>
+    <string name="FindMyFriend_server_error_message">Unable to connect to Server, please contact your administrator</string>
+    <string name="FindMyFriend_user_authentication_error_message">User name and password is incorrect !</string>
+    <string name="FindMyFriend_distance_message_first_part">is in</string>
+    <string name="FindMyFriend_distance_message_second_part">Kilo meters away from you</string>
+    <string name="FindMyFriend_message_from_cellid">AppTagC</string>
+    <string name="FindMyFriend_privacy_message">Unable to process the request</string>
+    <string name="FindMyFriend_privacy_tag">AppTagP</string>
+    <string name="FindMyFriend_">AppTagP</string>
+    <string name="nonum_delete">no numbers to be deleted</string>
+    <string name="fg_save"> F G select number and add to phone book</string>
+    <string name="not_assign"> Not Assign any operation </string>
+    <string name="fg_call"> FC select number to make call</string>
+
+    <!-- CalculatorScreen Strings -->
+
+    <string name="calc_zero">Zero</string>
+    <string name="calc_one">One</string>
+    <string name="calc_two">Two</string>
+    <string name="calc_three">Three</string>
+    <string name="calc_four">Four</string>
+    <string name="calc_five">Five</string>
+    <string name="calc_six">Six</string>
+    <string name="calc_seven">Seven</string>
+    <string name="calc_eight">Eight</string>
+    <string name="calc_nine">Nine</string>
+    <string name="calc_add">Addition</string>
+    <string name="calc_sub">Subtract</string>
+    <string name="calc_mul">Multiplied </string>
+    <string name="calc_div">Division</string>
+    <string name="calc_per">Percntage</string>
+    <string name="calc_cancel">operation cancelled</string>
+    <string name="calc_error">Error divide by zero , op2 is zero</string>
+    <string name="calc_welcome">Welcome to calculator </string>
+    <string name="calc_format">Please operate as per Format, Or </string>
+    <string name="calc_newformate"> select hash nine for operation Instruction</string>
+    <string name="calc_operand">operand 1, followed by arithmetic function , then by  operand 2 then F G</string>
+    <string name="calc_new"> please, Enter the data in following formate </string>
+    <string name="calc_select">Please select</string>
+    <string name="calc_hash1">Hash 1 to Add</string>
+    <string name="calc_hash2">Hash 2 to Subtract</string>
+    <string name="calc_hash3">Hash 3 to Multiply</string>
+    <string name="calc_hash4">Hash 4 to Divide</string>
+    <string name="calc_hash5">Hash 5 to decimal point</string>
+    <string name="calc_fg">F G for equal to </string>
+    <string name="calc_hashg">Hash G for cancel</string>
+    <string name="calc_starh">Star H for Delete</string>
+    <string name="calc_hg">h g to go back to previous menu</string>
+    <string name="calc_star">Star</string>
+    <string name="calc_hash">Hash</string>
+    <string name="inval_choice">Invalid choice</string>
+
+    <!-- AccessoriesMenu Strings -->
+
+    <string name="acce_homeAutomation">homeAutomation application not available, please install it</string>
+    <string name="acce_settings">settings application not available, please install it</string>
+    <string name="acce_help">help under development</string>
+    <string name="acce_welcome">Welcome to accessories</string>
+    <string name="acce_select">Please select</string>
+    <string name="acce_1">1 for calculator</string>
+    <string name="acce_2">2 for calender</string>
+    <string name="acce_3">3 for measurement</string>
+    <string name="acce_4">4 for home automation</string>
+    <string name="acce_8">8 for tutor</string>
+    <string name="acce_9">9 for Thelieus Manual </string>
+
+    <!-- AccessoryMenu  Strings -->
+
+    <string name="accessory_welcome">Welcome to accessories</string>
+    <string name="accessory_select">Please select</string>
+    <string name="accessory_1">1 for voice recorder</string>
+    <string name="accessory_2">2 for MP3 Player</string>
+    <string name="accessory_3">3 for alarm</string>
+    <string name="accessory_4">4 for personal organizer</string>
+
+    <!-- ActiveMainMenu Strings -->
+
+    <string name="active_launch">Launching  Stand by Mode</string>
+    <string name="active_calldeena">calling deenadayalan</string>
+    <string name="active_calljaga">calling jagannath</string>
+    <string name="active_deliversms">S M S delivered to</string>
+    <string name="active_welcome">Welcome to Active mode </string>
+    <string name="active_notassign"> Not Assign Any Number </string>
+    <string name="active_1">1 for cell phone</string>
+    <string name="active_2"> 2 for education</string>
+    <string name="active_3"> 3 for information</string>
+    <string name="active_4"> 4 for explorer</string>
+    <string name="active_5">5 for social networking</string>
+    <string name="active_6"> 6 for safety and security</string>
+    <string name="active_7">7 for  personal assistance</string>
+    <string name="active_8"> 8 for entertainment</string>
+    <string name="active_9"> 9 for accessories</string>
+    <string name="active_fgh"> f g h go to stand by mode</string>
+
+    <!-- AssignGroup String -->
+
+    <string name="assignGroup_welcome"> Welcome to Assign Group </string>
+    <string name="assignGroup_one"> select one for Speed Dialling </string>
+    <string name="assignGroup_two"> two for Emergency Message </string>
+    <string name="assgnGroup_three"> three for Personal profile </string>
+
+    <!-- AddContact Strings -->
+    <string name="contact_welcome"> welcome to Add New Contact.</string>
+    <string name="contact_savename">Please enter the contact name and press F G to continue. </string>
+    <string name="contact_savedname">contact name entered is</string>
+    <string name="contact_hg">press h g to go back to previous menu</string>
+
+    <!-- AlarmDay   Strings -->
+
+    <string name="alarmday_notenterday">u did not enter the day, please enter the day</string>
+    <string name="alarmday_hourenter"> alarm hours entered is </string>
+    <string name="alarmday_minutenter">alarm minutes entered is</string>
+    <string name="alarmday_dayenter">day entered is</string>
+    <string name="alarmday_repeatalarm">enter the first two letters of day u want to repeat the alarm and select F g to continue</string>
+
+    <!-- AlarmHr Strings And ToDoListAlarmHr Strings -->
+
+    <string name="alarmhr_enter">please enter the alarm hours</string>
+    <string name="alarmhr_reenter">hours can not be greater than 24, please re enter</string>
+    <string name="alarmhr_hourenter"> alarm hours entered is </string>
+    <string name="alarmhr_welcome">welcome to alarm</string>
+    <string name="alarmhr_fg">enter the alarm hours and select F g to continue</string>
+
+    <!-- AlarmMin  Strings -->
+
+    <string name="alarmmin_enter">please enter the alarm minutes</string>
+    <string name="alarmmin_reenter">minutes can not be greater than 59, please re enter</string>
+    <string name="alarmmin_hourenter"> alarm hours entered is </string>
+    <string name="alarmmin_minutenter">alarm minutes entered is</string>
+    <string name="alarmmin_fg">enter the alarm minutes and select F g to continue</string>
+
+    <!-- AnniversaryAlarmHr   Strings -->
+
+    <string name="analarmhr_enter">please enter the anniversary alarm hours</string>
+    <string name="analarmhr_reenter">"hours can not be greater than 24 , please re enter"</string>
+    <string name="analarmhr_date">date entered is</string>
+    <string name="analarmhr_month">month entered is </string>
+    <string name="analarmhr_hours">alarm hours entered is </string>
+    <string name="analarmhr_fg">enter the alarm hours and select F g to continue</string>
+
+    <!-- AnniversaryAlarmMin And ToDoListAlarmMin  Strings -->
+
+    <string name="analarmmin_enter">please enter the alarm minutes</string>
+    <string name="analarmmin_reenter">"minutes can not be greater than 59 , please re enter"</string>
+    <string name="analarmmin_date">date entered is</string>
+    <string name="analarmmin_month">month entered is </string>
+    <string name="analarmmin_hours">alarm hours entered is </string>
+    <string name="analarmmin_minut">alarm minutes entered is</string>
+    <string name="analarmmin_fg">enter the alarm minutes and select F g to continue</string>
+
+    <!-- AnniversaryDate   Strings -->
+
+    <string name="andate_enter">please enter the anniversary date</string>
+    <string name="andate_reenter">date can not be greater than 31, please re enter the date </string>
+    <string name="andate_date">date entered is</string>
+    <string name="andate_welcome">welcome to anniversary, enter the date and select F g to continue</string>
+
+    <!-- AnniversaryDescription Strings -->
+
+    <string name="andes_enter">please enter the anniversary description </string>
+    <string name="andes_fg">f g pressed</string>
+    <string name="andes_enteris">entered is </string>
+    <string name="andes_enterfg">enter the description and select F g to continue</string>
+
+    <!-- AnniversaryDisplay   Strings -->
+
+    <string name="andisplay_fg">F G for select file</string>
+    <string name="andisplay_hg">H G for going to active menu</string>
+
+    <!-- AnniversaryMenu   Strings -->
+
+    <string name="anmenu_1">1 for creating text diary</string>
+    <string name="anmenu_2">2 for listing text diary</string>
+
+    <!-- AnniversaryMonth   Strings -->
+
+    <string name="anmonth_enter">please enter the anniversary Month </string>
+    <string name="anmonth_reenter">months can not be greater than 12 , please re enter the month </string>
+    <string name="anmonth_setagain">please set the anniversary again</string>
+    <string name="anmonth_date">date entered is</string>
+    <string name="anmonth_month">month entered is</string>
+    <string name="anmonth_fg">enter the month and select F g to continue</string>
+
+    <!-- AnniversarySnoozeSet Strings -->
+
+    <string name="ansnoo_1">Enter 1 for snooze</string>
+    <string name="ansnoo_2">Enter 2 for no snooze </string>
+
+    <!-- AppNumberEntry , FMFNumberEntry  , NumberEntry  Strings -->
+
+    <string name="appno_alarm">alarm hours entered is</string>
+
+    <!-- AppointmentAnniversayConfirmation  Strings -->
+
+    <string name="appanncon_1">1 for continue</string>
+    <string name="appanncon_2">2 for re set the</string>
+
+    <!-- AppointmentDate  Strings -->
+
+    <string name="appdate_enter">please enter the appointment date </string>
+    <string name="appdate_reenter">date can not be greater than 31 , please re enter</string>
+    <string name="appdate_date">date entered is</string>
+    <string name="appdate_welcome">welcome to appointment, enter the appointment date and select F g to continue</string>
+
+    <!-- AppointmentDescription   Strings -->
+
+    <string name="appdesc_enter">please enter the appointment description</string>
+    <string name="appdesc_follows">the  appointment is as follows</string>
+    <string name="appdesc_fg">enter the description and select F g to continue</string>
+
+    <!-- AppointmentFromHr  Strings -->
+
+    <string name="apphr_enter">please enter the appointment from hours </string>
+    <string name="apphr_reenter">hours can not be greater than 24, please re enter</string>
+    <string name="apphr_alarm">alarm hours entered is</string>
+    <string name="apphr_fg">enter the alarm hours and select F g to continue</string>
+
+    <!-- AppointmentFromMin   Strings -->
+
+    <string name="appmin_enter">please enter the appointment from minutes</string>
+    <string name="appmin_reenter">minutes can not be greater than 59, please re enter</string>
+    <string name="appmin_alarm">alarm minutes entered is</string>
+    <string name="appmin_fg">enter the from minutes and select F g to continue</string>
+
+    <!-- Appointmentmenu   Strings -->
+
+    <string name="appmenu_welcome">Welcome to appointments Please select</string>
+    <string name="appmenu_1">1 for creating appointment</string>
+    <string name="appmenu_2">2 for list of appointments</string>
+
+    <!-- AppointmentMonth  Strings -->
+
+    <string name="appmonth_enter">please enter the appointment month</string>
+    <string name="appmonth_reenter">months can not be greater than 12 , please re enter the month</string>
+    <string name="appmonth_month">month entered is </string>
+    <string name="appmonth_fg">enter the appointment month and select F g to continue</string>
+
+    <!-- AppointmentToHr Strings -->
+
+    <string name="apptohr_enter">please enter the appointment to hours</string>
+    <string name="apptohr_reenter">hours can not be greater than 24, please re enter</string>
+    <string name="apptohr_fg">enter to hours and select F g to continue</string>
+
+    <!-- AppointmentToMin  Strings -->
+
+    <string name="apptomin_enter">please enter the appointment to minutes </string>
+    <string name="apptomin_reenter">minutes can not be greater than 59, please re enter</string>
+    <string name="apptomin_min">to minutes entered is</string>
+    <string name="apptomin_date">the appointment date and time is </string>
+    <string name="apptomin_fg">enter the alarm minutes and select F g to continue</string>
+
+    <!-- AppointmentWhere  Strings -->
+
+    <string name="appwhere_enter">please enter the appointment venue</string>
+    <string name="appwhere_venue">the venue is</string>
+    <string name="appwhere_fg">enter venue of this appointment and select F g to continue</string>
+
+    <!-- AppointmentYear  Strings -->
+
+    <string name="appyear_enter">please enter the appointment year</string>
+    <string name="appyear_reenter">please enter the valid  year</string>
+    <string name="appyear_again">please set the appointment again </string>
+    <string name="appyear_year">year entered is </string>
+    <string name="appyear_date">the date of appointment is</string>
+    <string name="appyear_fg">enter the appointment year and select F g to continue</string>
+
+    <!-- AppSpecialCharacterEntry And FMFSpecialCharacterEntry Strings -->
+
+    <string name="appchar_alarm">alarm hours entered is </string>
+    <string name="appchar_mode">you are in special character mode</string>
+    <string name="appchar_press">press star after entering the numbers</string>
+
+    <!-- BrailleScreen  Strings -->
+
+    <string name="braiscreen_pad">Generic Dailer Pad</string>
+
+    <!-- CalanderDate  Strings -->
+
+    <string name="caladate_fg">welcome to Calender, enter the date and select F g to continue</string>
+
+    <!-- CalanderMonth  Strings -->
+
+    <string name="calamonth_enter">please enter the month</string>
+    <string name="calamonth_month">month entered is</string>
+
+    <!-- CalanderYear  Strings -->
+
+    <string name="calayear_enter">please enter the year</string>
+    <string name="calayear_30d">Entered month has only 30 days</string>
+    <string name="calayear_29d">Entered month has only 29 days</string>
+    <string name="calayear_28d">Entered month has only 28 days</string>
+    <string name="calayear_dest">destinationDay</string>
+    <string name="calayear_day">the day is</string>
+    <string name="calayear_today">today  date is </string>
+    <string name="calayear_fg">enter the year and select F g to continue</string>
+
+    <!-- CallsReceiverActivity  Strings -->
+
+    <string name="callrec_call">call rejected</string>
+    <string name="callrec_unknown">incoming call from unknown  </string>
+    <string name="callrec_from">incoming call from </string>
+
+    <!-- cellphone  Strings -->
+
+    <string name="cellphone_welcome">welcome to cellphone</string>
+    <string name="cellphone_one"> one for number pad dialing</string>
+    <string name="cellphone_two">two for phone book dialing</string>
+    <string name="cellphone_three">three for call log dialing</string>
+    <string name="cellphone_four">4 for S M S</string>
+    <string name="cellphone_five">5 for CREATE PHONE BOOK</string>
+    <string name="cellphone_six">6 for  ASSIGN GROUP</string>
+    <string name="cellphone_0"> 0 for to repeat menu</string>
+    <string name="cellphone_hg">h g to go back to previous menu</string>
+
+    <!-- CallLogDialling  String -->
+
+    <string name="calllog_welcome">welcome to Call Log Dialling</string>
+    <string name="calllog_one"> one for Dialled call</string>
+    <string name="calllog_two">two for Received  CALLS</string>
+    <string name="calllog_three">three for MISSED CALLS</string>
+    <string name="calllog_0"> 0 for to repeat menu</string>
+    <string name="calllog_hg">H G to go to Previous menu</string>
+
+    <!-- CreateAlarm   Strings -->
+
+    <string name="crtalarm_alarm">Alarm is set at</string>
+    <string name="crtalarm_nalarm">1 to set new Alarm  </string>
+    <string name="crtalarm_valarm">2 to View Alarm</string>
+    <string name="crtalarm_1">1 to select Hours by pressing BA for scroll up BC for scroll down</string>
+    <string name="crtalarm_2">2 to select minuts by pressing BA for scroll up BC for scroll down </string>
+    <string name="crtalarm_3">3 to add description of alarm</string>
+    <string name="crtalarm_fg">FG for Set Alarm</string>
+    <string name="crtalarm_DG">DG for Cancel </string>
+    <string name="crtalarm_edalarm">1 to Edit Alarm</string>
+    <string name="crtalarm_dealarm">2 to delete Alarm</string>
+    <string name="crtalarm_enalarm">2 to Enable Alarm</string>
+    <string name="crtalarm_dialarm">2 to disable Alarm</string>
+    <string name="crtalarm_setalarm">1 to Set one time alarm </string>
+    <string name="crtalarm_realarm">2 to set repeat daily alarm </string>
+    <string name="crtalarm_hg">HG for Back</string>
+
+    <!-- CreateFileList  String -->
+
+    <string name="crtfile_nof">No Files</string>
+
+    <!-- CueOrPrompt  Strings -->
+
+    <string name="cue_sdcard">No Files in sdcard   Please add files to sdcard and try again</string>
+    <string name="cue_ba">Press B A for scroll up</string>
+    <string name="cue_bc">Press b C for scroll Down</string>
+    <string name="cue_fg">Press f g to open file to read</string>
+    <string name="cue_hg">Press h g  to go back to previous menu</string>
+
+    <!-- Ebook  Strings -->
+
+    <string name="ebook_hdevice">Dependent on hardware device</string>
+    <string name="ebook_welcome">welcome to e book reader</string>
+    <string name="ebookWrite_welcome"> welcome to e book write</string>
+    <string name="ebook_one">1 for read E book </string>
+    <string name="ebook_two">2 for deleteE  book </string>
+    <string name="ebook_three"> 3 for Editing Ebook</string>
+    <string name="ebook_four"> 4 for importing Ebook</string>
+    <string name="ebook_five"> 5 for export Ebook</string>
+    <string name="ebook_six"> 6 for creating directory</string>
+    <string name="ebookread_welcome">Welcome to E Book reader, Enter first character of the book to be read  and</string>
+    <string name="ebook_seven"></string>
+
+    <!-- EbookRead  Strings -->
+
+    <string name="ebread_1"> 1 for Reading from beginning of</string>
+    <string name="ebread_2"> 2 for Reading from bookmark</string>
+    <string name="ebread_3"> 3 for Make bookmark and continue reading</string>
+    <string name="ebread_4"> 4 for Make bookmark and ebook from list</string>
+    <string name="ebread_5"> 5 for going to Ebook main menu</string>
+
+    <!-- EditContact   strings -->
+
+    <string name="edcant_enter"> entered name is saved as </string>
+
+    <!-- EducationMenu  Strings -->
+
+    <string name="emenu_ocr">O C R under development</string>
+    <string name="emenu_dictionary">dictionary under development</string>
+    <string name="emenu_board">computer key board under development</string>
+    <string name="emenu_1">1 for e notepad</string>
+    <string name="emenu_2">2 for voice recorder</string>
+    <string name="emenu_3">3 for e book</string>
+    <string name="emenu_4">4 for Dictionary</string>
+    <string name="emenu_5">5 for dictionary or spell check</string>
+    <string name="emenu_6">6 for cue or prompt</string>
+    <string name="emenu_7">7 for  braille tutor</string>
+    <string name="emenu_8"> 8 for computer key board</string>
+    <string name="newsPaper_welcome">welcome to education menu</string>
+
+    <!-- EnoteDelete  Strings -->
+
+    <string name="enotedel_fg">F G for select file</string>
+    <string name="enotedel_hg">H G for going to previous menu</string>
+
+    <!-- Enoteedit   Strings -->
+
+    <string name="enoteedit_enter">Please enter first few charecters of filename</string>
+    <string name="enoteedit_gh">g h to open file for editing</string>
+
+    <!-- Enoteeditscroll   Strings -->
+
+    <string name="enotescr_ee">E E to start reading the file</string>
+    <string name="enotescr_eg">E G to pause</string>
+    <string name="enotescr_b5">b 5 for scroll left</string>
+    <string name="enotescr_5b">5 b for scroll right</string>
+    <string name="enotescr_ctrlx">control  x for cut</string>
+    <string name="enotescr_ctrlc">control  c for copy</string>
+    <string name="enotescr_ctrlv">control  v for paste</string>
+    <string name="enotescr_ctrls">control  s for save</string>
+    <string name="enotescr_ctrlr">control  r for Rename</string>
+    <string name="enotescr_9">9 for Repeating menu</string>
+    <string name="enotescr_select">select the text to be copied </string>
+    <string name="enotescr_ctrl">select control  G to start slection and control z to end selection</string>
+    <string name="enotescr_position">select the position to paste</string>
+    <string name="enotescr_name">please enter the new name</string>
+    <string name="enotescr_cut">Cut option is under development</string>
+    <string name="enotescr_paste">paste option is under development</string>
+    <string name="enotescr_delete">delete option is under development</string>
+    <string name="enotescr_insert">insert option under development</string>
+    <string name="enotescr_rename">rename option under development</string>
+    <string name="enotescr_sorry">sorry wrong option</string>
+    <string name="enotescr_pressf">you did not press f</string>
+    <string name="enotescr_fgh">select f g h for active mode</string>
+    <string name="enotescr_pressg">you did not press g</string>
+
+    <!-- EnoteList  Strings -->
+
+    <string name="enotelist_welcome"> Welcome to note reader, Please enter the first character of, Note Name and, select </string>
+    <string name="enotelist_ba">Press b A for scroll up</string>
+    <string name="enotelist_bc">Press b C for scroll Down</string>
+    <string name="enotelist_fg"> f g to select note for Reading </string>
+    <string name="enotelist_hg">Press h g  to go back to previous menu</string>
+
+    <!-- NotePad  Strings -->
+
+    <string name="NotePad_usb">Please connect U S B to client or host server</string>
+    <string name="NotePad_folder">Please enter the name of folder FOLLOWED BY  F g</string>
+    <string name="NotePad_welcome">Welcome to E notepad</string>
+    <string name="NotePad_one">one for Writing  note</string>
+    <string name="NotePad_two">two for Reading note</string>
+    <string name="NotePad_three">three for Deleting note</string>
+    <string name="NotePad_four">four for Import note</string>
+    <string name="NotePad_five">five for Export note</string>
+    <string name="NotePad_six">six for creating folder </string>
+    <string name="NotePad_seven">seven for Searching note from the list</string>
+    <string name="NotePad_eight">eight to delete enote</string>
+    <string name="NotePad_nine">nine to repeat the menu</string>
+
+    <!-- EnoteRead  Strings -->
+
+    <string name="enoteread_welcome">Welcome to note reader, Enter first character of note and</string>
+    <string name="enoteread_one">one for Reeding from beginning</string>
+    <string name="enoteread_two">two for Reeding from bookmark</string>
+    <string name="enoteread_three">three for Pause and continue</string>
+    <string name="enoteread_four">four for book mark and close</string>
+    <string name="enoteread_five">five for close without book mark</string>
+    <string name="enoteread_starh">* h to exit</string>
+    <string name="enoteread_hashg"># g bookmark and exit</string>
+    <string name="enoteread_eight">eight for exit from</string>
+    <string name="enoteread_zero">zero to repeat menu</string>
+
+    <!-- NotepadWrite  Strings -->
+
+    <string name="NotepadWrite_fname">enter the file name followed by F G</string>
+    <string name="NotepadWrite_enterchar">You have entered more than 8 character</string>
+    <string name="NotepadWrite_delete">Press D to delete a character</string>
+    <string name="NotepadWrite_type">Start typing the content , at the end press F G to save</string>
+    <string name="NotepadWrite_save">Typed content saved to </string>
+    <string name="NotepadWrite_welcome"> Welcome to Braille Note pad writer  </string>
+
+    <!-- EntertainmentMenu  Strings -->
+
+    <string name="entermenu_welcome">welcome to guitar</string>
+    <string name="entermenu_game">games</string>
+    <string name="entermenu_install">word jumble application not available, please install it</string>
+    <string name="entermenu_1">1 for F M Radio</string>
+    <string name="entermenu_2">2 for M P 3 Player</string>
+    <string name="entermenu_3">3 for guitar</string>
+    <string name="entermenu_4">4 for games</string>
+    <string name="entermenu_0">0 for menu options</string>
+
+    <!-- ExplorerMenu   Strings -->
+
+    <string name="expmenu_1">1 for out door guide</string>
+    <string name="expmenu_2">2 for in door guide</string>
+    <string name="expmenu_3">3 for locator</string>
+
+    <!-- FavouriteSpotsMenu Strings -->
+
+    <string name="favspotsmenu_1">1 for locating spot</string>
+    <string name="favspotsmenu_2">2 for registration</string>
+
+    <!-- FavSpotLocator  And  FavSpotRegister Strings -->
+
+    <string name="favspotloct_spot1">Your favourite spot 1 is lalbag</string>
+    <string name="favspotloct_spot2">Your favourite spot 2 is</string>
+    <string name="favspotloct_spot3">Your favourite spot 3 is</string>
+    <string name="favspotloct_spot4">Your favourite spot 4 is</string>
+    <string name="favspotloct_spot5">Your favourite spot 5 is</string>
+    <string name="favspotloct_one">1 for favourite spot 1</string>
+    <string name="favspotloct_two">2 for favourite spot 2 </string>
+    <string name="favspotloct_three">3 for favourite spot 3 </string>
+    <string name="favspotloct_four">4 for favourite spot 4</string>
+    <string name="favspotloct_five">5 for favourite spot 5</string>
+
+    <!-- FavSpotPathYesNo  Strings -->
+
+    <string name="favspotpath_dest">destination entered is</string>
+    <string name="favspotpath_yes">1 for yes</string>
+    <string name="favspotpath_no">2 for no</string>
+
+    <!-- FMFindFriend  Strings -->
+
+    <string name="fmfriend_nocant">No contacts</string>
+
+    <!-- FMFNewUserCPwd Strings -->
+
+    <string name="fmusercpwd_conpwd">please enter the confirm password</string>
+    <string name="fmusercpwd_reenter">re enter the password to register to confirm</string>
+
+    <!-- FMFNewUserEmail  Strings -->
+
+    <string name="fmuseremail_mailid">please enter the email i d</string>
+    <string name="fmuseremail_name">name entered is</string>
+    <string name="fmuseremail_email">email entered is</string>
+    <string name="fmuseremail_fg">enter the email i d and select F g to continue</string>
+
+    <!-- FMFNewUserName  And FMFRegisteredUser  Strings -->
+
+    <string name="fmusername_uname">please enter the user name</string>
+    <string name="fmusername_fg">enter the user name and select F g to continue</string>
+    <string name="fmreguser_uname">user name is</string>
+
+    <!-- FMFNewUserPwd   Strings -->
+
+    <string name="fmuserpwd_enterpwd">please enter the password</string>
+    <string name="fmuserpwd_pwd">pasword entered is</string>
+    <string name="fmuserpwd_fg">enter the password and select F g to continue</string>
+
+    <!-- FMFRegPwd  Strings -->
+
+    <string name="fmregpwd_fg">enter the password and select F g to confirm</string>
+
+    <!-- FMFriendMenu  Strings -->
+
+    <string name="fmmenu_eprivacy">your privacy is enabled</string>
+    <string name="fmmenu_dprivacy">your privacy is disabled</string>
+    <string name="fmmenu_dgps">Your GPS is disabled! cell location will be used</string>
+    <string name="fmmenu_location">unable to send location data</string>
+    <string name="fmmenu_welcome"> welcome to friends location</string>
+    <string name="fmmenu_one">one for Find my Friend Menu</string>
+    <string name="fmmenu_two">two for finding friends</string>
+    <string name="fmmenu_three">three to enable privacy</string>
+    <string name="fmmenu_four">four to disable privacy</string>
+
+    <!-- FMFServerSettings  Strings -->
+
+    <string name="fmserver_saddr">start entering your server address</string>
+
+    <!-- FriendsLocator  Strings -->
+
+    <string name="friendLoc_reg">User registered</string>
+    <string name="friendLoc_welcome">Welcome to Friends Locator</string>
+    <string name="friendLoc_please">Please register to use this application</string>
+    <string name="friendLoc_one">one for new user</string>
+    <string name="friendLoc_two">two for registered user</string>
+    <string name="friendLoc_three">three  for server settings</string>
+    <string name="friendLoc_nine">nine to repeat the menu</string>
+
+    <!-- getMeHome  Strings -->
+
+    <string name="getMe_dest">destination entered is</string>
+    <string name="getMe_welcome">welcome to get me home</string>
+    <string name="getMe_home">your home is at  </string>
+    <string name="getMe_wish">would you wish to go home now? </string>
+    <string name="getMe_one">select 1 for yes</string>
+    <string name="getMe_two">2 for no </string>
+
+    <!-- Guide Strings -->
+
+    <string name="guide_welcome">Welcome to Guide</string>
+    <string name="guide_one">1 for walky talky</string>
+    <string name="guide_two">2 for Near by place</string>
+    <string name="guide_three">3 for path finder</string>
+
+    <!-- IndoorGuide  Strings -->
+
+    <string name="indGuide_num1">in door navigation under integration</string>
+    <string name="indGuide_num2">door number, operate press switch number 3</string>
+    <string name="indGuide_num3">product location, operate press switch number 3</string>
+    <string name="indGuide_welcome">Welcome to in door guide </string>
+    <string name="indguide_one">1 for in door navigation</string>
+    <string name="indguide_two">2 for door number </string>
+    <string name="indGuide_three">3 for product location </string>
+
+    <!-- InformationMenu  Strings -->
+
+    <string name="infoMenu_num3">Restaurant application not available, please install it</string>
+    <string name="infoMenu_num4">welcome to voice recorder Menu</string>
+    <string name="infoMenu_num6">product information</string>
+    <string name="infoMenu_num7">welcome to calendar</string>
+    <string name="infoMenu_one"> 1 for news paper </string>
+    <string name="infoMenu_two"> 2 for t v news</string>
+    <string name="infoMenu_three"> 3 for weather report</string>
+    <string name="infoMenu_four">4 for web browsing</string>
+    <string name="infoMenu_five">5 for description or menu card </string>
+    <string name="infoMenu_six"> 6 for product information</string>
+    <string name="infoMenu_seven"> 7 for  calender</string>
+
+    <!-- locator  Strings -->
+
+    <string name="locat_num1">Your Current Position is</string>
+    <string name="locat_num3">campus guide is under integration</string>
+    <string name="locat_gps">enable g p s</string>
+    <string name="locat_num4">Please wait until GPS is fixed </string>
+    <string name="locat_spot">your favourite spot is</string>
+    <string name="locat_num5">make my path is under integration</string>
+    <string name="locat_welcome">Welcome to Locator</string>
+    <string name="locat_one">one for current location</string>
+    <string name="locat_two">two for friends location</string>
+    <string name="locat_three">three for campus guide</string>
+    <string name="locat_four">four for my favourite spot</string>
+    <string name="locat_five">five for make my path</string>
+    <string name="locat_six">six for get me home</string>
+
+    <!-- MeasurementMenu  Strings -->
+
+    <string name="mesurMenu_num1">timer under integration</string>
+    <string name="mesurMenu_num2">distance application not available, please install it</string>
+    <string name="mesurMenu_num3">measuring tape under development</string>
+    <string name="mesurMenu_num4">photometer application not available, please install it</string>
+    <string name="mesurMenu_num5">thermometer application not available, please install it</string>
+    <string name="mesurMenu_num6">e compass under development</string>
+    <string name="mesurMenu_welcome">Welcome to measurement </string>
+    <string name="mesurMenu_one">1 for timer</string>
+    <string name="mesurMenu_two">2 for distance estimator</string>
+    <string name="mesurMenu_three">3 for measuring tape</string>
+    <string name="mesurMenu_four">4 for photometer </string>
+    <string name="mesurMenu_five">5 for thermometer </string>
+    <string name="mesurMenu_six">6 for home automation</string>
+
+    <!-- MediaFilePlayer Strings -->
+
+    <string name="mediaPlay_welcome">Welcome to Media Player, Please enter the first character of the file name and select</string>
+    <string name="mediaPlay_one"> 1 for start Playing</string>
+    <string name="mediaPlay_two"> 2 for stop playing</string>
+    <string name="mediaPlay_three">3 for pause</string>
+    <string name="mediaPlay_four"> 4 for jump forward</string>
+    <string name="mediaPlay_five"> 5 for jump backward</string>
+    <string name="mediaPlay_six"> 6 for Close file</string>
+    <string name="mediaPlay_stop">Please start Play and Stop</string>
+    <string name="mediaPlay_pause">Please start Play and Pause</string>
+    <string name="mediaPlay_forward">Please start Play and go forward</string>
+    <string name="mediaPlay_backward">Please start Play and go backward</string>
+
+    <!-- MedicalAdvice  Strings -->
+
+    <string name="mediAdvice_num1">medicine identifier under development</string>
+    <string name="mediAdvice_num3">First Aid application not available, please install it</string>
+    <string name="mediAdvice_num4">medicine schedule application not available, please install it</string>
+    <string name="mediAdvice_num5">medicine history under development</string>
+    <string name="mediAdvice_one">1 for medicine identifier</string>
+    <string name="mediAdvice_two">2 for prescription </string>
+    <string name="mediAdvice_three">3 for first aid </string>
+    <string name="mediAdvice_four">4 for medicine schedule</string>
+    <string name="mediAdvice_five">5 for medicine history </string>
+
+    <!-- Medicalprescription Strings -->
+
+    <string name="mediPres_welcome">welcome to medical prescription</string>
+    <string name="mediPres_one">one for Reeding from beginning </string>
+    <string name="mediPres_two">two for Reeding from bookmark </string>
+    <string name="mediPres_three">three for bookmark and continue Reeding </string>
+
+    <!-- MessageMain Strings -->
+
+    <string name="msgMain_inbox">inbox</string>
+    <string name="msgMain_choice">Sorry wrong choice</string>
+    <string name="msgMain_welcome">welcome to S M S</string>
+    <string name="msgMain_one"> one for create</string>
+    <string name="msgMain_two"> two for inbox</string>
+
+    <!-- MessageMenu Strings -->
+
+    <string name="msgMenu_mode">Launching  Stand by Mode</string>
+    <string name="msgMenu_num3">welcome to Ebook</string>
+    <string name="msgMenu_num4">welcome to voice recorder</string>
+    <string name="msgMenu_one">1 for entering a new number</string>
+    <string name="msgMenu_two">two for selecting a number from phone book</string>
+
+    <!-- MoveDialCall Strings -->
+
+    <string name="moveCall_welcome"> Welcome to Dial Call List</string>
+    <string name="moveCall_select">selected number is</string>
+    <string name="moveCall_empty">Dialled call list is empty</string>
+
+    <!-- MoveMissedCall And MoveRecievedCall Strings -->
+
+    <string name="moveMiscal_welcome"> welcome to Miss call List</string>
+    <string name="moveRevcal_welcome"> welcome to received  Call list</string>
+    <string name="moveMiscal_empty">Missed call list is empty</string>
+    <string name="moveRevcal_empty">Received call list is empty</string>
+
+    <!-- NearbyPlaceName  Strings -->
+
+    <string name="nearPName_welcome">welcome to local directory or near by place</string>
+    <string name="nearPName_fg">enter the place name and select F g to continue</string>
+
+    <!-- NearbyPlaceNumber Strings -->
+
+    <string name="nearPNo_enter">Enter the number of  place to list and then press F g</string>
+
+    <!-- NearbyPlaces Strings -->
+
+    <string name="nearPlace_search">search not found</string>
+
+    <!-- number_pad  Strings -->
+
+    <string name="noPad_enter">Please enter the phone number Followed by F G to dial</string>
+    <string name="noPad_welcome">welcome to number pad dialing</string>
+    <string name="noPad_delete"> Press star H to delete wrong entry</string>
+
+    <!-- OutdoorGuide  Strings -->
+
+    <string name="outGuide_num2">traffic guide application not available, please install it</string>
+    <string name="outGuide_num4">bus route number under development</string>
+    <string name="outGuide_num5">bus destination under development</string>
+    <string name="outGuide_num6">train or bus time table under development</string>
+    <string name="outGuide_num7">centralized monitoring under development</string>
+    <string name="outGuide_welcome">Welcome to out door guide</string>
+    <string name="outGuide_one">1 for walky talky</string>
+    <string name="outGuide_two">2 for pedestrian crossing </string>
+    <string name="outGuide_three">3 for local directory  </string>
+    <string name="outGuide_four">4 for bus route number  </string>
+    <string name="outGuide_five">5 for bus destination</string>
+    <string name="outGuide_six">6 for train or bus time table</string>
+    <string name="outGuide_seven">7 for centralised monitoring</string>
+
+    <!-- PersonalAssistanceMenu  Strings -->
+
+    <string name="persMenu_num3">electronic wallet under development</string>
+    <string name="persMenu_num4">currency identifier under development</string>
+    <string name="persMenu_num5">color sensor under development</string>
+    <string name="persMenu_num6">product detail reader under development</string>
+    <string name="persMenu_num7">cook book application not available, please install it</string>
+    <string name="persMenu_one">1 for alarm</string>
+    <string name="persMenu_two">2 for personal organizer </string>
+    <string name="persMenu_three">3 for  electronic wallet</string>
+    <string name="persMenu_four">4 for currency identifier </string>
+    <string name="persMenu_five">5 for color sensor </string>
+    <string name="persMenu_six">6 for product detail reader </string>
+    <string name="persMenu_seven">7 for cook book </string>
+    <string name="persMenu_nine">9 for medical advice </string>
+
+    <!-- PersonalOrg  Strings -->
+
+    <string name="persOrg_one">1 for voice diary</string>
+    <string name="persOrg_two">2 for to do list </string>
+    <string name="persOrg_three">3 for  Anniversary </string>
+    <string name="persOrg_four">4 for appointment </string>
+
+    <!-- PersonalOrganizer  Strings -->
+
+    <string name="presOrgzer_num3">text diary application not available, please install it</string>
+    <string name="persOrgzer_one">1 for appointment</string>
+    <string name="persOrgzer_two">2 for to do list </string>
+    <string name="persOrgzer_three">3 for  text diary </string>
+    <string name="persOrgzer_four">4 for  voice diary</string>
+    <string name="persOrgzer_five">5 for bill schedule</string>
+
+    <!-- CreatePhoneBook  Strings -->
+
+    <string name="CreatephBook_welcome">welcome to Create Phone book</string>
+    <string name="CreatephBook_one">1 for Add new Contact  </string>
+    <string name="CreatephBook_two">2 for Transfer FROM DIALLED CALL </string>
+    <string name="CreatephBook_three">3 for Transfer FROM RECEIVED CALLS</string>
+    <string name="CreatephBook_four">4 for Transfer FROM MISSED CALL</string>
+    <string name="CreatephBook_five">5 for delete Contact from Phone Book</string>
+
+    <!-- PhoneSearchContact  Strings -->
+
+    <string name="phConatct_welcome"> Welcome to phone book dialling</string>
+    <string name="phConatct_charater"> Please, enter the first character of contact name and, select </string>
+    <string name="phContact_makecall">F G for select number to make call</string>
+
+    <!-- SafetySecurityMenu Strings -->
+
+    <string name="safeMenu_num1">BaggageMonitor application not available, please install it</string>
+    <string name="safeMenu_num2">baggageLocator application not available, please install it</string>
+    <string name="safeMenu_num3">beacon application not available, please install it</string>
+    <string name="safeMenu_num4">fire alarm under development</string>
+    <string name="safeMenu_one"> 1 for baggage monitor</string>
+    <string name="safeMenu_two"> 2 for baggage locator</string>
+    <string name="safeMenu_three"> 3 for warning receiver</string>
+    <string name="safeMenu_four">4 for fire alarm</string>
+
+    <!-- serversettings Strings -->
+
+    <string name="servSett_addr">please enter the server address</string>
+
+    <!-- ShortCutKeys Strings -->
+
+    <string name="shortCut_enterwords">please enter the short cut words</string>
+    <string name="shortCut_enter">enter the first 3 characters of application you want to open and select F g to continue</string>
+    <string name="shortCut_ocr">O C R is under integration</string>
+    <string name="shortCut_cue">cue or prompt is under integration</string>
+    <string name="shortCut_restaurant">Restaurant application not available, please install it</string>
+    <string name="shortCut_radio">radio chatting application not available, please install it</string>
+    <string name="shortCut_facebook">facebook application not available, please install it</string>
+    <string name="shortCut_tweeter">tweeter application not available, please install it</string>
+    <string name="shortCut_email">e mail is under integration</string>
+    <string name="shortCut_electronic">electronic wallet under integration</string>
+    <string name="shortCut_currency">currency identifier under integration</string>
+    <string name="shortCut_color">color sensor under integration</string>
+    <string name="shortCut_nokey">no such short cut key exists</string>
+
+    <!-- smsinbox  Strings -->
+    <string name="smsInbox_welcome"> Welcome to S M S inbox</string>
+    <string name="smsInbox_fg">F G for select number to make call</string>
+    <string name="smsInbox_inbox">inbox messages are</string>
+    <string name="smsInbox_read"> B C for scroll Down to read message</string>
+    <string name="smsInbox_delete"> Press D to delete Message </string>
+    <string name="smsInbox_nosms"> No S M S at the moment</string>
+    <string name="smsInbox_sms"> F G to select and send S M S</string>
+
+    <!-- SnoozeSet  Strings -->
+
+    <string name="snooSet_select">select any key for snooze  2 for no snooze </string>
+    <string name="snooSet_fg">select f g for dismiss alarm</string>
+
+    <!-- socialNetworkingMenu  Strings -->
+
+    <string name="socialMenu_noNet">No network</string>
+    <string name="socialMenu_email">e mail under development</string>
+    <string name="socialMenu_one">1 for radio chatting</string>
+    <string name="socialMenu_two">2 for face book</string>
+    <string name="socialMenu_three">3 for tweeter</string>
+    <string name="socialMenu_four">4 for e mail</string>
+
+    <!-- SpeedDialing Strings -->
+
+    <string name="speedDial_speedDial">select number preceding star for speed dial</string>
+    <string name="speedDial_assign">Assigned </string>
+
+    <!-- StandbyMainMenu  Stirngs -->
+
+    <string name="standMenu_missCall">Your list of missed calls are</string>
+    <string name="standMenu_dialCall">Your list of dialled calls are</string>
+    <string name="standMenu_receiveCall">Your list of received calls are</string>
+    <string name="standMenu_signal">The signal strength is</string>
+    <string name="standMenu_simcheck">Please insert sim</string>
+    <string name="standMenu_battery">your battery is</string>
+    <string name="standMenu_welcome"> Welcome to Home Menu</string>
+    <string name="standMenu_one">1 for time</string>
+    <string name="standMenu_two">2 for date</string>
+    <string name="standMenu_three">3 for Call history</string>
+    <string name="standMenu_four">4 for SMS history  </string>
+    <string name="standMenu_five">5 for Signal strength</string>
+    <string name="standMenu_six">6 for Battery strength</string>
+    <string name="standMenu_seven">7 My Current location </string>
+    <string name="standMenu_eight"> 8 for calculator</string>
+    <string name="standMenu_nine">9 for My Profile</string>
+    <string name="standMenu_hash"># for calculator</string>
+    <string name="standMenu_star">star  for speed dial</string>
+    <string name="standMenu_emergency"> #, 1 4 7 for Sending Emergency Message</string>
+
+    <!-- ToDoListDate  Strings -->
+
+    <string name="todoDate_enter">please enter the alarm date</string>
+    <string name="todoDate_fg">enter the date and select F g to continue</string>
+
+    <!-- TODoListDescription Strings -->
+
+    <string name="todoDesc_enter">please enter the alarm description</string>
+    <string name="todoDesc_desc">description entered is</string>
+
+    <!-- ToDoListDisplay Strings -->
+
+    <string name="todoDisplay_noList">no lists to do</string>
+
+    <!-- ToDoListMenu  Strings -->
+
+    <string name="todoMenu_welcome">Welcome to to do list, Please select</string>
+    <string name="todoMenu_one">1 for creating your To Do list</string>
+    <string name="todoMenu_two">2 for saved list to do</string>
+
+    <!-- ToDoListPriority  Strings -->
+
+    <string name="todoPrio_priority">enter the priority high or medium or low and select F g to continue</string>
+
+    <!-- ToDoListYear  Strings -->
+
+    <string name="todoYear_please">please enter the valid year</string>
+    <string name="todoYear_setList">please set the To do list again</string>
+
+    <!-- VoiceDiary  Strings -->
+
+    <string name="voiceDiary_welcome">welcome to voice diary Please select</string>
+    <string name="voiceDiary_one">1  for Record</string>
+    <string name="voiceDiary_two">2 for Stop</string>
+    <string name="voiceDiary_three">3 for Play</string>
+    <string name="voiceDiary_four">4 for Remove</string>
+    <string name="voiceDiary_record">Recording started at  </string>
+
+    <!-- VoiceRecorder Strings -->
+
+    <string name="voiceRecord_stop">stopped recording</string>
+    <string name="voiceRecord_welcome"> Welcome to Voice Record</string>
+    <string name="voiceRecord_pause"> Pause recording</string>
+    <string name="voiceRecord_1">1 for start recording</string>
+    <string name="voiceRecord_2">2 for stop recording</string>
+    <string name="voiceRecord_one">1 for start playing recorded audio</string>
+    <string name="voiceRecord_two">2 for stop playing recorded audio</string>
+    <string name="voiceRecord_three">3 for Pause playing recorded audio</string>
+    <string name="voiceRecord_four">4 for jump forward</string>
+    <string name="voiceRecord_five">5 for jump backward</string>
+    <string name="voiceRecord_eight">8 for exit voice recorder application</string>
+    <string name="voiceRecord_fg">FG for Save recorded audio file</string>
+    <string name="voiceRecord_start"> plase start and Stop recorded audio</string>
+    <string name="voiceRecord_hg">HG for discard recorded audio file</string>
+
+    <!-- VoiceRecordMenu  Strings -->
+
+    <string name="voiceMenu_notepad">Please launch notepad for wrtiting Ebook</string>
+    <string name="voiceMenu_feature">This feature is under development</string>
+    <string name="voiceMenu_hardware">Hardware device dependent</string>
+    <string name="voiceMenu_one">1 for Recording</string>
+    <string name="voiceMenu_two">2 for Play back from the list</string>
+    <string name="voiceMenu_three">3 for Delete recorded voice</string>
+    <string name="voiceMenu_four">4 for importing</string>
+    <string name="voiceMenu_five">5 for export</string>
+    <string name="voiceMenu_six">6 for Delete voice record from list </string>
+    <string name="voiceregord_welcome"> Welcome to voice record file list, Please enter the first character of the file name and select</string>
+
+    <!-- WalkyTalky  Strings -->
+
+    <string name="walky_welcome">welcome to walky talky</string>
+    <string name="walky_gpse1">Please select e 1 to enable g p s</string>
+    <string name="walky_gpse2">Please select e 2 to enable g p s</string>
+    <string name="walky_enter">enter the destination and press f g to say the direction</string>
+
+    <!-- WriteContactNumber  Strings -->
+
+    <string name="writeContact_contNo">Enter contact number followed by F G</string>
+    <string name="writeContact_Emergency"> if you wish to assign emergency number press # after enter the  Number</string>
+    <string name="writeContact_save"> Press F G to save Contact Number</string>
+
+    <!-- WriteSmsBody  Strings -->
+
+    <string name="writeSms_welcome"> Welcome to create; SMS.</string>
+    <string name="writeSms_enter">please enter the message</string>
+    <string name="writeSms_msg">message entered is</string>
+    <string name="writeSms_start">Enter the message and press FG to continue</string>
+
+    <!-- Browser  Strings -->
+
+    <string name="browser_standMode">Launching Stand by Mode</string>
+    <string name="browser_welcome">Welcome to browsing</string>
+    <string name="browser_one">1 for T V news</string>
+    <string name="browser_two">2 for News Paper</string>
+
+    <!-- EnterSpecificUrl  Strings -->
+
+    <string name="EnterUrl_enterUrl">enter the U R L and select F G to continue</string>
+
+    <!-- Newspaper  Strings -->
+
+    <string name="newsPaper_one">1 for Times of india</string>
+    <string name="newsPaper_two">2 for the hindhu</string>
+    <string name="newsPaper_three">3 for deccan herald</string>
+    <string name="newsPaper_four">4 for indian express</string>
+    <string name="newsPaper_five">5 for specific</string>
+
+    <!-- OpenSpecificPage Strings -->
+
+    <string name="openPage_welcome">welcome to times of india</string>
+
+    <!-- TimesOfIndia  Strings -->
+
+    <string name="TimeIndia_welcome">welcome to times of india</string>
+
+    <!-- TVnews  Strings -->
+
+    <string name="tvNews_welcome">welcome to t v news</string>
+    <string name="tvNews_one">1 for N D T V</string>
+    <string name="tvNews_two">2 for B B C</string>
+    <string name="tvNews_three">3 for c N N or I B N</string>
+    <string name="tvNews_five">5 for specific</string>
+
+    <!-- EmergencyInfoMenu  Strings -->
+
+    <string name="emergencyMenu_num4">welcome to Explorer</string>
+    <string name="emergencyMenu_num9">Settings App is under development</string>
+    <string name="emergencyMenu_one">1 for configure mobile number</string>
+    <string name="emergencyMenu_two">2 for modify contacts</string>
+
+    <!-- Update -->
+    <string name="update">Upgrade to a Premium version and get the very best of THELIEUS Application </string>
+
+    <!-- Personal Information -->
+    <string name="PersonalInformation_welcome">welcome to Personal Information </string>
+    <string name="PersonalInformation_name">enter your name and select F G to continue </string>
+    <string name="PersonalInformation_d">press d to delete a character entry </string>
+    <string name="PersonalInformation_contnum">enter your contact number and select F G to continue </string>
+    <string name="PersonalInformation_enter">Please enter the phone number</string>
+    <string name="PersonalInformation_delete"> press Star and h to delete number </string>
+    <string name="PersonalInformation_address"> enter your address and select F g to continue </string>
+
+    <!-- CalanderDate -->
+    <string name="Calanderdate_welcome"> welcome to Calander, please enter the date FOLLOWED BY  F g.</string>
+    <string name="Calanderdate_fg">While making entry , press star H to delete wrong entry</string>
+
+    <!-- CalanderMonth -->
+    <string name="CalanderMonth_welcome"> please, Enter the month FOLLOWED BY F G.</string>
+    <string name="CalanderMonth_fg"> PRESS Star H to DELETE ENTRY</string>
+
+    <!-- CalanderYear -->
+    <string name="CalanderYear_welcome"> please, Enter the Year, FOLLOWED BY F G </string>
+    <string name="CalanderYear_fg"> PRESS Star H to DELETE ENTRY</string>
+
+    <!-- EmergencyDialing -->
+    <string name="Emergency_welcomw"> Welcome to Emergency Number</string>
+    <string name="Emergency_FG"> select Number , F G to assign  </string>
+
+    <!-- EmergencyReplace -->
+    <string name="EmergencyReplace_welcome"> Welcome to Emergency Replace. </string>
+    <string name="EmergencyReplace_FG"> F G to select, and assign number </string>
+    <string name="Emergency_invalid"> Invalid Selection</string>
+
+    <!-- CreateFolder -->
+    <string name="CreateFolder_welcome"> Welcome to Create Folder </string>
+
+    <!-- NotepadDelete -->
+
+    <string name="NotepadDelete_welcome"> Welcome to Notepad Delete ,Please enter the first character of the note to be deleted. plaese</string>
+
+    <!-- WriteSmsNumber -->
+    <string name="WriteSmsNumber_select">  Enter contact number and, select F G to send SMS </string>
+
+    <!-- TutorMenu -->
+
+    <string name="tutormenu_welcome"> welcome to Tutor  </string>
+    <string name="tutormenu_one"> one for Braille tutor</string>
+    <string name="tutormenu_two"> two for Numeral Character tutor</string>
+
+    <!-- ManualMenu -->
+
+    <string name="manualmenu_welcome"> Welcome to Thelieus  Manual </string>
+    <string name="manualmenu_one">  hash for Introduction</string>
+    <string name="manualmenu_two"> one  for CELL PHONE menu</string>
+    <string name="manualmenu_three"> two for  EDUCATION menu </string>
+    <string name="manualmenu_nine"> nine for Accessories Menu </string>
+    <string name="manualmenu_star"> star for quick Operational  manual</string>
+
+    <!-- AccessoriesManual -->
+    <string name="accessoriesmanual_welcome"> welcome to Accessories Manual</string>
+    <string name="accessoriesmanual_one"> one for calculator </string>
+    <string name="accessoriesmanual_two"> two for calendar</string>
+    <!-- DeleteVoiceRecord -->
+
+    <string name="DeleteVoice_welcome"> Welcome to File Delete Menu. Please enter the first character of the file name and select. </string>
+
+    <!-- DictionaryMenu -->
+
+    <string name="dictionary_welcome"> welcome to  Dictionary </string>
+    <string name="dictionary_one"> one for Search</string>
+
+    <!-- DictionarySearch -->
+
+    <string name="dictinatysearch_welcome"> welcome to Dictionary</string>
+    <string name="dictinatysearch_search"> Please, Enter the search Word FOLLOWED by F G to get the meaning </string>
+
+    <!-- NotepadWriteMenu -->
+    <string name="NotepadWriteMenu_welcome"> welcome to note writer </string>
+    <string name="NotepadWriteMenu_one"> one for Braille writer</string>
+    <string name="NotepadWriteMenu_two"> two for Numeral writer</string>
+
+    <!-- LandscapeModeScreen -->
+
+    <string name="LandscapeModeScreen_fname">Please enter the file name followed by F G</string>
+    <string name="LandscapeModeScreen_enterchar">you are entering more than eight characters</string>
+    <string name="LandscapeModeScreen_delete">Press star 8 to delete a character</string>
+    <string name="LandscapeModeScreen_type">Start typing the content , at the end press F G to save</string>
+    <string name="LandscapeModeScreen_welcome"> Welcome to landscape  mode Numeral  writer  </string>
+
+    <!-- DeleteContact -->
+
+    <string name="DeleteContact_welcome"> welcome to delete contact</string>
+    <string name="DeleteContact_select">press F G to select Contact</string>
+
+</resources>

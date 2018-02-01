@@ -1,0 +1,62 @@
+Braille alphabet and Braille code
+Braille code is a writing system which enables blind and partially sighted people to read and write through touch. It consists of raised dots arranged in cells of up to six dots in a 3x2 configuration. Each cell represents a Braille letter, numeral or punctuation mark. Braille has been adapted in many different languages and also used for musical and mathematical notations. In the Telieus application the Braille notation format is adapted to write electronically called e-Braille.
+The Braille dots of a cell is designated as follows
+The three dots of first column as 1, 2, 3
+The three dots of second column as 4, 5, 6
+The dot position of Braille letters in English alphabets are as follows.
+The first ten alphabets A to J are represented by
+A.   1
+B.   1, 2
+C.   1, 4
+D.   1, 4, 5
+E.   1, 5
+F.   1, 2, 4
+G.   1, 2, 4, 5
+H.   1, 2, 5
+I.    2, 4
+J.   2, 4,5
+The second ten alphabets K to T are the repetition of the fist ten alphabets with additional ‘dot’ on the third position.
+K.    1, 3
+L.    1, 2, 3
+M.  1, 4, 3
+N.  1, 4, 5, 3
+O.  1, 5, 3
+P. 1, 2,  4,  3
+Q. 1, 2, 4, 5, 3
+R.   1, 2, 5, 3
+S.   2, 4, 3
+T.   2, 4, 5, 3
+The third set of ten alphabets  u to w are again same as the first set with additional two ‘dots’ at 3, and 6 position as follows
+U.    1, 3, 6
+V.    1, 2, 3, 6
+X.    1, 4, 3, 6
+Y.    1, 4, 5, 3, 6
+Z.   1, 5, 3, 6
+W   2, 4, 5, 6 
+NUMERICALS are represented as represented for  A TO J pre fixed with the key A 
+1.    1
+2.    1, 2
+3.     1, 4
+4.     1, 4, 5
+5.     1, 5
+6.     1, 2, 4
+7.     1, 2, 4, 5
+8.     1, 2, 5
+9.     2, 4
+0.     2, 4, 5
+The blank space is represented by 4,6
+For writing in upper case pre fix the alphabet with key B
+Braille writing  using the Thelieus application
+Thelieus application enables writing Braille text electronically. For the purposes of writing Braille text. The input key pad is mapped as given below.
+KEYPAD  MAPPING 2- for the purposes of inputting Braille characters for speed writhing/Typing
+The five windows of first column from top to bottom represent 1, 2, 3, E, F
+The five windows of  second column from top to bottom represent  4, 5 , 6, E, G 
+The five windows of third column from top to bottom  represent  A, B, C, D, H
+If you visualize the key mapping explained above you will find the six dots of Braille notations are represented in windows of three rows of first and second column. The windows of the third column from top to bottom  A, B, C ,D AND H denotes control  keys. Since the key  pad is mapped for writing Braille notations, the use of windows A, B, C, D, E, are as follows.
+A- FOR NUMERALS
+B -FOR UPPER CASE
+C -RESERVED 
+D -FOR DELETING WRONG ENTRY
+E- FOR ENTER
+The windows F, G, H  are control windows for the operation of the device which will be explained later.
+

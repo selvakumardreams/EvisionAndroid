@@ -1,0 +1,115 @@
+ 
+Introduction to Thelieus application.
+Welcome!  This manual  gives an overview of the THELIEUS  application suite, and operation of different applications.
+The Thelieus  application suite  is a set of android based applications for installation in any Android operating system based mobile phone,  to convert the phone in to a visually impair friendly assistive device.  
+Thelieus is a multifunctional, multi lingual, application; developed to alleviate the five major difficulties faced by visually impaired, namely a) Reading and Writing , b) Access to information, c )Navigating outdoor and Indoor, d)Safety and Security and e) self reliant,  with a major objective to simplify day to day activities, and to enhance the quality of life.
+The application uses standard Braille notation as input   through a window touch screen, and Text To Speech (TTS) output as user interface.  The various applications of the suite are classified as per their functions, module wise.   Navigation to the applications is through voice prompt menu.
+The various modules of  THELIEUS are as follows.
+1	Telecommunication 
+2	Education
+3	Information
+4   Exploring (outdoor and indoor)
+5	Social networking
+6	Safety and security
+7	Personal assistance
+8	Entertainment
+9	Accessories
+0	Stand by information
+ The windows of the key pad are arranged in three columns and five rows. 
+The keys are mapped in three different configurations as given below, to cater to different application requirements. The key pad adapts to different  mode as per the requirement of the application by default.
+The three keypad mapping modes are
+KEYPAD  MAPPING MODE 1 for  keying in numbers, and for operation  of calculator.
+The three windows of first row from left to right represent 1, 2, and 3
+The three windows of second row from left to right represent 4, 5, and 6
+The three windows of third row from left to right  represent 7, 8, and 9
+The three windows of fourth row from left to right represent #, 0, and *
+The three windows of fifth row from left to right as F, G, and H. 
+Repeat F for France, G for Germany, and H for Holland.
+
+KEYPAD  MAPPING MODE 2  for  Braille  writhing.
+The five windows of first column from top to bottom represent 1, 2, 3, E, and F
+The five windows of second column from top to bottom represent 4, 5, 6, E, and G 
+The five windows of third column from top to bottom represent A, B, C, D, and H
+If  you visualise the key mapping explained above, you will find the six dots of Braille notations are represented by the three windows of the first column from top to bottom as 1, 2, 3,  and the three windows  of second column from top to bottom as 4, 5, 6.
+The  three windows of the third column from top to bottom are, A, B, and C. And these keys are used for scrolling up and down as follows.
+BA to Scroll up,
+BC to Scroll down.
+The three windows of fourth row, repeat forth row, from right to left are mapped as D, E, and E.  The function of the keys are, D for delete, E for enter, and again E for enter.
+The three windows of fifth row, left to right  are mapped as F, G, and H.  These three keys are control keys for the  operation of the device, which are explained in each application.
+KEYPAD mapping 3  for  writing by Innovative Numeral character, which is   speed writing. Under this mode, the input key pad windows are mapped as given below in landscape position. The numeral notion is a fast and effort less writing system in which alphabets are represented by numerals. The system is explained under main menu 9 accessories, sub menu 8 tutor, sub-sub menu 2  numeral tutor. Or press 982 under active menu,
+The mapping is,
+ The five windows of the first row represent   F, #, 1, 2, 3
+The five windows of the second row represent  G, 0, 4, 5, 6
+The five windows of the third row represent   H, *, 7, 8, 9
+
+Requirement of hardware and software
+a) Smart mobile phone of any make; with Android  operating system, with touch screen size of size 55mm wide, and 65 mm height.
+2	THELIEUS application suite procured through Google stores.
+3	Window grid supplied by Thelieus lab by courier
+
+Installation  of Thelieus  software, and the  operation of the device
+STEP 1
+Download and install the THELIEUS application suite from Google play
+On purchase of the THELIEUS  application suite, THELIEUS company will send you by courier   a 3 by 5 matrix window grid  to be strapped  to the mobile touch screen.  strap the same on your mobile as per the instruction provided on the grid. 
+The mobile is ready to be used as assistive device for visually challenged.
+
+OPERATION  
+General instruction 
+Standard terminology
+In the description of operation in the manual, the word key, window, and button, mean the  same.
+The word press, touch, swipe, select, key stroke mean the  same.
+ The standardised key stroke/ window touch/ window swipe under the application suits are  
+FG,  horizontal swipe from left to right is for Select, Accept, and  Perform 
+ *H, vertical swipe from top to bottom is for Cancel, Reject, and Delete.
+HG, horizontal stroke from right to left for exit from menu/ go to previous menu
+GF, horizontal stroke from right to left  to go to home
+BA for scrolling up, BC for scrolling down.
+F G H to go to active mode from stand by mode
+0 for menu details
+98 for Tutor, 
+99 for Thelieus manual
+In case the system is struck or hangs, use the back button of the device to exit.
+
+The THELIEUS application suite function in two distinctive  modes; namely
+ a) Stand by mode, 
+ b) Active mode.
+STAND BY MODE
+Normally, when the device is switched on, or after a delay subsequent to any operation, the device will switch to stand by mode.  In the stand by mode, the frequently referred information such as Time, Date, Call history, SMS history, Signal strength, Battery strength, Calendar and calculator can be obtained by touch of the appropriate window of the key pad.   
+Under stand by mode, the window keys mapping will be in mode 1. That is 
+a)	The three windows of first row from left to right  represent  1, 2, 3
+b)	The three windows of second  row from left to right  represent  4, 5, 6
+c)	The three windows of third row from left to right  represent  7, 8, 9
+d)	  The three windows of fourth row from left to right  represent  #, 0, *.
+e)	The three windows of fifth row from left to right represent  F, G, H. 
+The  keys designated for the frequently referred information are
+ 1 for Time
+2 for Date
+ 3 for Call history
+ 4 for SMS history  
+ 5 for Signal strength
+ 6 for Battery strength
+7	for  My current location
+9 for My profile
+‘* for Speed dial
+#147 for emergency message
+0  for  menu detail
+
+Active mode
+All the functions of the THELIEUS application suite mentioned below are performed under active mode. The device is switched from stand by mode to active mode by swipe of the fifth row windows F, G, H. 
+The modules of active mode are,
+       1Telecommunication
+       2 Education
+4	Information
+5	Exploring(outdoor and indoor
+6	Social networking
+7	Safety and security
+8	Personal assistance
+9	Entertainment
+10	Accessories
+11	Stand by information
+
+The strong feature  of the application package is that the navigation to different applications is achieved through voice prompted  menu, Such as select 1 of telecommunication, 2 for education 3 for information etc. On selection of each  menu, the voice will prompt the subsequent sub menu and sub –sub menu to navigate to the desired applications.
+The voice prompt is meant for beginners, and the same can be switched off, or override the prompt    after the user becomes familiar with the menu.   The desired application can also be reached by entering the application code, application name or abbreviation of the application, or near/ similar application name.
+Follow the voice prompt guide for operation.
+End of introduction chapter. Thank you.
+Press HG to go to previous menu.

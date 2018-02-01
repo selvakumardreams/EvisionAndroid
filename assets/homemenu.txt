@@ -1,0 +1,41 @@
+OPERATION OF APPLICATION
+When the application is installed in to a smart phone, a 3x5 matrix soft keys arranged in five rows and three columns appears on the screen. 
+These keys are defined as follows.
+The three keys of first row are 1, 2, 3. 
+The three keys of second row are 4, 5, 6. 
+The three keys of third row are 7, 8, 9. 
+The three keys of fourth row are  0, #, *. 
+The three keys of fifth row are  F, G, H. 
+With the app “standby information” , the frequently referred information can be obtained by touch of the following keys. 
+1 for Time 
+2 for Date 
+3 for Call history 
+4 for SMS history 
+5 for Signal strength 
+6 for Battery strength 
+7 for Calendar 
+9 for personal data 
+0 for menu detail
+# for calculator
+*H for  stop process
+OPERATION OF CALENDAR
+This function specifies the day and the number of days from the current date for any given date, Month and year.
+On selection of key 7
+the voice prompts to….
+Enter the day, followed by FG 
+Enter the Month, followed by FG 
+Enter the year, followed by FG 
+The application computes the number of days from the current date and gives an audio output of the day and the number of days..
+
+OPERATION OF CALCULATOR
+The arithmetic operators are denoted by the following key combination strokes.  
+#1 for Addition 
+#2 for Subtraction 
+#3 for Multiplication 
+#4 for Division 
+#5 for Percentage 
+FG for Equal to 
+*H for deletion of wrong entry
+HG for close calculator 
+(Please make the above two key strokes  in quick succession.)
+

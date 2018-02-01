@@ -1,0 +1,161 @@
+ 
+Module 2 Education: This category covers applications related to education. Main purpose of this category is to make reading and writing simple, fast, effective, and inexpensive. The application takes down notes electronically there by eliminating  stationery which is expensive, voluminous, difficult to store and retrieve.  The application also eliminates embossed books and makes available most of the generally published books, by way of e book there by reducing the gap that exit now with the normal vision people,and the visually impaired, and  increase the literacy level of visually impaired.
+ Under the Main menu 2 Education, there are four sub menus namely
+1   Electronic note pad
+ 2 Voice recorders 
+ 3 E Book/Voice Book Readers
+4 Dictionary 
+
+ E Note pad: This application enables taking down class room notes, writing office memos, literary work etc,.  electronically there by, eliminating cumbersome and expensive thick stationary embossing. The notepad uses standard Braille notation, or innovative Numeral character notation for speedy and effective writing.
+Operation:
+Select Main menu 2 Education
+Sub menu 1 e Note pad. 
+Under the sub menu there are three sub-sub menus namely 
+1 Write
+2 Read
+ 3 Delete
+ Write
+Select main menu 2 Education
+Sub menu 1 Notepad
+Sub-sub menu 1 Write
+On selection of the Sub-sub menu 1 Write, the application further prompt to select the system of writing namely,
+ 1 for Braille writing, 
+ 2  for Numeral character writing.
+Under the   Sub-sub-sub menu 1 Braille Writing, the keypad  switch to  mode 2(Braille pad) to enable to write text in Braille notation. 
+First create file name by typing file name in Braille character, followed by FG and 
+Type  text by touching relevant windows  of the device as per the standard Braille scheme . Refer  Braille tutor under main menu 9 Accessories, sub menu 8 tutor. Or press 992 under active mode.
+ After  typing note, the document, swipe windows FG to save.  
+The system will save the document in text  file under the specified  file name and exit
+
+On selection of  Sub-sub-sub menu 2 Numeral character writing, 
+The keypad will switch mode 3(numerical writing). It may be recalled that the screen is mapped for landscape writing.  Place the device in landscape position to enable to type large documents.
+Type text by touching relevant windows  of the device as per the numerical character scheme. Refer Numeral writing scheme under Main menu 9 Accessories, sub menu 8 tutor. Or press 993 under active mode.
+After  typing the note/ document, swiping  FG to save the document. 
+The system will save the document in text  file under the specified  file name and exit.
+If window FG is swiped without specifying file name the system will save the file under the current date and time as file name.
+Reading 
+Select Main menu 2 Education
+Sub menu 1 Note pad
+Sub-sub menu  2  Read 
+Under the sub-sub menu, the system will switch to key mapping mode 2. 
+On selection of the menu, the system will prompt to specify file to be read.	
+Enter the first  characters of the file name to be selected.
+ The application will  short list the file names starting with the alphabet entered. Locate the desired name by   scrolling up or down. The key strokes for scrolling are
+ BA for scroll up. 
+ BC for scroll down  
+FG for select  
+On selection of the desired file
+System will prompt to select 	
+1 for Reading from beginning
+2 for Reading from bookmark 
+3 for Pause/continue
+4  for Bookmark and close.
+5 for Close without bookmark.
+ Delete. To delete unwanted files
+Select Main menu 2 Education
+Sub menu 1 Note pad
+Sub-sub menu  3 Delete. 
+System will ask to specify the file to be deleted
+Enter the first letter of the file to be deleted
+The system will short list the files starting with the letter entered.
+Scroll up / down
+Select the desired file by pressing FG
+System in say file xyx selected press FG to confirm
+Press FG to confirm delete
+File will be deleted and
+And the system will Intimate file deletion. 
+
+
+ Voice recorder : meant for recording  class room lecture, speech, dictation etc. Facility is provided in this application to play back the recorded material sentence by sentence to enable to transcript to Braille or numerical notation at later stage.
+ Recording
+Select Main menu 2 Education 
+Sub menu 2  Voice recorder. 
+Under  the sub menu there are tree sub-sub menus namely
+1  Record
+2  Play
+3 Delete 
+ Recording
+Select  Main menu 2 Education 
+Sub menu 2  Voice recorder
+Sub –sub menu 1 Recording 
+under the menu 1 Recording there are three sub-sub menus as follows
+1  Start
+2  Pause
+3  Stop
+ 
+On completion of  recording , the file is  saved by swiping windows F,G.
+ The system will  prompt to specify  file name for saving. 
+Type the file name in Braille character, and swipe windows F, G  to save. 
+The system will save the  file under the specified  file name and exit.
+If window FG is swiped without specifying file name the system will save the file under the current date and time as file name.
+
+ Play 
+
+Select Main menu 2 Education
+Sub menu 2 Voice recorder 
+Sub-sub menu 2  Play, 
+Under the menu play there are two sub-sub menus namely 
+1 Play normal,
+2 Play slow.
+The option selection of sub-sub menu 1 play normal, or 2 play slow, the application will prompt to specify file name to be played.
+Enter the first characters of the file name to be selected.
+ The application will  short list all the names starting with the alphabet entered. Locate the desired name by   scrolling up / down  by the following key strokes.
+ BA for scroll up. 
+ BC for scroll down  
+FG for select 
+ on selected the desired file 
+ select 
+1 for start playing
+2 for Stop playing
+3 for Pause
+4 for Jump forward
+5  for Jump backwards
+GH for exit
+ Delete
+Select Main menu 2 Education,
+Sub menu 2 Voice recorder, 
+Sub-sub menu 3 delete,
+System will ask to specify file to be deleted
+Enter the first letter of the file to be deleted
+The system will short list the files starting with the letter entered.
+Scroll up / down
+Select the desired file by pressing FG
+System in say file xyx selected press FG to confirm
+Press FG to confirm delete
+File will be deleted and
+ The system will Intimate file deletion. 
+ E Book reader: to down load e book from the net (convert PDF file to document file outside the device) and read using text to speech facility.  
+Main menu  2 Education	
+Sub menu  3 e-book
+Under the sub menu there are two   sub-sub menus namely
+1 Read
+2 Delete
+2.3.1 Read
+Select Main menu 2 Education
+Sub menu 3 e- book
+Sub-sub menu 1 Read
+Under the sub menu, the system will switch to key mapping mode 2. 
+and ask to specify file to be read.
+Enter the first  characters of the  book name to be selected.
+ The application will  short list the Books starting with the alphabet entered. 
+Locate the desired  by   scrolling up or down. 
+The key strokes for scrolling are
+ BA for scroll up. 
+ BC for scroll down  
+FG for select  
+On selection of the desired Book
+Select 
+1	for Reading from beginning
+2	 for Reading from book mark 
+3	for pause/continue
+4	For Book mark and close
+5	for close  without book mark
+ Dictionary reader: For getting  meaning for words
+ Select Main menu 2 Education
+Sub menu 4 Dictionary
+On  selection of the menu
+The application will switch to key mapping mode 2 and prompt to type the word to get the meaning.
+Type the word in Braille format followed by FG
+The system will fetch the meaning for the word and read by text to speech.		
+End of module 2 Education manual. Thank you
+

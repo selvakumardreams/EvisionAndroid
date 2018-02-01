@@ -1,0 +1,9 @@
+Numeral writing
+The innovative numeral writing is simple and faster than Braille writing. For  this writing, alphabets are denoted by numbers. 
+That is the first ten alphabets a to j are denoted by numbers 1 to 9 and 0. that is  1 for a, 2 for b, 3 for c, 4 for d like wise 0 for j. 
+The second set ten alphabets k to t is  repetition of 1 to 9 and 0 prefixed with  key F. 
+The third set of  six letters and four punctuation are repetition of numbers 1 to 6. and  the number7 to 9 and 0 represent  ,  .  ;  ?   all these number are  prefixed with key G.
+ Numerals 1 to 9 and 0 are represented by the numbers 1 to 9 and 0 prefixed with key H.
+ The first set of  punctuation marks  :,   @,  &,  %,  ‘,  “,  <,  >,  (,  ) are  represented by number 1 to 9 and 0 prefixed with key # 
+The arithmetic operator are marked as 1 for addition, 2 for separations, 3 for multiplication, 4 for division, 5 for equal to.
+The other operating functions are represented by 6 for back space, 7 for delete, 8 for space, 9 for enter, 0 for upper case.  

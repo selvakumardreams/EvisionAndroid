@@ -1,0 +1,128 @@
+  
+Module 1, Cell phone: This category covers all telecommunication functions of the Thelieus application suite.
+Under main menu 1 Cell phone, there are six sub menus namely.
+1	Number pad dialling,
+2	Phone book dialling,
+3	Call log dialling,
+4	 SMS,
+5	Create phone book,
+6	 Assign group,
+ Number pad dialling: is for directly keying in contact phone number for making call.
+ Select main menu 1 Cell phone, 
+ Sub menu 1 Number pad dialling,  
+Under the sub menu, the keypad switches to key mapping mode 1(number pad),
+Enter the desired telephone number by touching the relevant windows of the keypad.
+Press *H to delete wrong entry,
+After entering the telephone number of the contact,
+Press keys FG to connect call.
+The application will connect call to the entered number.
+ Phone book dialling for calling contact by selecting desired number from phone book.
+ Select main menu 1 Cell phone, 
+ Sub menu 2 Phone book dialling,
+Under the sub menu, the key pad will switch to mode 2 Braille key pad.
+Enter the first  character of the contact name to be selected.
+ The application will short list all the names starting with the alphabet entered. Locate the desired name by   scrolling up or down. The key strokes for scrolling are
+ BA for scroll up. 
+ BC for scroll down  
+
+FG for select 
+ FG for connect call. 
+ Call log dialling 
+Call log dialling is for dialling contact by selecting  telephone number from dialled calls , received calls and from missed calls history.
+Select Main menu 1 Cell phone
+Sub menu 3 Call log dialling. 
+There are three sub-sub menus under this, namely, 
+1 Make calls from dialled call list, 
+2 Make calls from received call list,
+3  Make calls from missed call list,
+On selection of any three of the menus, the application will prompt to 
+Select the desired number by scrolling up or down. The key strokes for scrolling are,
+BA to scroll up,
+BC to scroll down,
+FG to select, 
+FG to connect call,
+SMS : is for sending and reading SMS in Braille notation.
+Under this menu, there are two sub-sub menus, namely;
+1  Create message,
+2  Inbox,  
+Create message.
+Select main menu 1 Cell phone,
+Sub menu  3 SMS,
+Sub-sub menu 1 Create message,
+On selection of this menu, the key pad configuration will change to mode 2 Braille keypad.
+System  will prompt to enter the text message in Braille character. 
+Write the message in Braille system. After completion of typing the text message, swipe keys FG to indicate end of message.
+ The application will prompt to select the mode of contact entry. 
+Sub menu 1 for Direct entry of contact number. 
+Sub menu 2 for Selecting contact from Phone book.
+Under sub menu 1 Direct entry, the system will switch to key pad mode 1 (number key pad).
+Enter the contact number and press FG to send SMS.
+press *H to delete wrong entry.
+
+ Under sub menu 2, select from Phone book, the system will switch to key pad mode 2 (Braille pad).
+Enter the first charecter of the contact name to be selected.
+ The application will  short list all the names starting with the alphabet entered. Locate the desired name by   scrolling up/down by following key strokes.
+ BA for scroll up. 
+ BC for scroll down,  
+FG for select, 
+ FG for send message. 
+
+SMS Inbox : to Read; received messages
+Main menu 1 cell phone,
+Sub menu 4 SMS,
+Sub- menu SMS inbox,
+On selection of the menu, the system will list all un read messages, 
+Select  the message to be read by scrolling up or down to read  messages.
+BA for scroll up,
+BC for scroll down,
+
+Create phone book: to create phone book
+Under this menu there are five options
+1 Add new contact
+2 Transfer from dialled calls
+3 Transfer from received calls 
+4 Transfer from missed calls
+5 Delete contact from phone book
+6 Assign group
+
+Add new contact: for adding contact directly to phone book
+On selection of the option, the system will prompt to;
+ Enter the contact name followed by FG.
+Press key D to delete wrong entry.
+After the entry of contact name, system will prompt to enter contact number.
+Enter contact number followed by FG.
+Press key *H delete wrong entry.
+System will save the contact details to phone book, and intimate that the contact has been saved.
+Transfer from dialled call, received call missed calls list.  
+On selection of sub-sub menus 2 or 3 or 4, the system will prompt to scroll up /down to and press FG to select the desired number to be transferred.
+Scroll up/down and select desired number by pressing FG.
+System will prompt to enter contact name under which the number is to be saved.
+Enter the contact name followed by FG to save
+Press D to delete wrong entry.
+System will save the contact to phone book, and confirm that the contact has been saved.
+
+Delete contact.
+On selection  of the  option, system will prompt to enter the first character of the contact name to be deleted.
+On entry of first character of the name, system will shortlist all the names starting with the character. Scroll up/ down and select the desired number by pressing FG.
+System will ask for conformation for delete. Confirm by pressing FG
+System will delete the selected name, and intimate the deletion.   
+Assign group: for assigning contacts for speed dialling, Emergency SMS and for drawing personal profile.
+speed dialling.
+ On selection of this option 
+System will prompt to enter the first character of contact name to be assigned for speed dialling,
+Enter the first character of contact name and scroll up /down and select desired number by pressing FG. 
+System will assign speed dialling number and intimate.
+Emergency SMS contact number.
+On selection of this option 
+System will prompt to enter the first character of contact name to be assigned for emergency SMS.
+Enter the first character of contact name and scroll up /down and select desired number by pressing FG. System will assign the contact for emergency SMS  and intimate.
+Personal profile: This is for anybody  to get full information of the device owner  in case of emergency.
+On selection of the option the system will guide to enter the personal profile one by one followed by FG such as name, address, blood group etc. One of the details of the personal profile detail is; GPS location of the owner’s residence. If the profile detail is made sitting in his residence, the system will automatically get the GPS location and store.  
+Speed dialling: for making phone calls by single touch of window (up to nine predefined contacts).
+Speed dialling can be made both in stand by mode, and in active mode.
+Press * followed by the single digit assigned for the contact.
+System will connect to the contact.
+Emergency message: for sending pre programmed emergency SMS; to four pre-defined contacts including;   emergency service like‘108’ in India, 911 in USA etc. The application is programmed to send the user’s GPS location at the time of making emergency message along with the pre defined message say xyz is in emergency at location abc.
+To send emergency SMS Press hash 147. That is, vertical swipe of the three windows of first columns from top to bottom in Standby mode or active mode.
+
+End of Cell phone chapter of Thelieus cell phone manual. Thank you.
